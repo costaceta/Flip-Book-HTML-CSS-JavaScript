@@ -13,9 +13,12 @@ body {
   background-color: powderblue;
 }
 
-
 /* Book */
-.book {
+#book {
+  display: flex;
+}
+
+.book-wrapper {
   position: relative;
   width: 350px;
   height: 350px;

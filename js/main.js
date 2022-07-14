@@ -1,7 +1,7 @@
 // References to DOM Elements
 const prevBtn = document.getElementById('prev-button');
 const nextBtn = document.getElementById('next-button');
-const book = document.getElementById('book');
+const book = document.getElementById('book-wrapper');
 
 const paper1 = document.getElementById('p1');
 const paper2 = document.getElementById('p2');
