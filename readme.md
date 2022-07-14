@@ -1,4 +1,4 @@
-# Flipbook with Html e Css
+# Flip book with Html, Css and Javascript
 
 ![Flipbook effect](./images/capa.gif)
 
